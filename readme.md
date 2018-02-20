@@ -1,7 +1,7 @@
 
 # 2-D Colliding Balls Screen Saver:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w7q5qQt5zyM/0.jpg)](https://www.youtube.com/watch?v=w7q5qQt5zyM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i4J20G04wbI/0.jpg)](https://www.youtube.com/watch?v=i4J20G04wbI)
 
 ## Introduction
 
